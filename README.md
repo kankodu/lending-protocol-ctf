@@ -1,6 +1,4 @@
-# Free Lunch
-
-A small lending pool CTF
+# LendingPool CTF
 
 ## Setup
 
