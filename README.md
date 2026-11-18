@@ -4,7 +4,7 @@ Just knowing the bug won't get you a payout. You have to show how it can be weap
 
 ## Leaderboard
 
-...
+First - [Keyword](https://x.com/xKeywordx)
 
 ## Setup
 
