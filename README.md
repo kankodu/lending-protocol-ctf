@@ -2,6 +2,10 @@
 
 Just knowing the bug won't get you a payout. You have to show how it can be weaponised now or be ready to be dismissed as "known issue". 
 
+## Leaderboard
+
+...
+
 ## Setup
 
 - `LendingPool` lends `loanToken` against `collateralToken` (1:1 price, 80% LTV, ~20% fixed interest rate).
@@ -11,7 +15,7 @@ Just knowing the bug won't get you a payout. You have to show how it can be weap
 
 ## Goal
 
-Starting as `ATTACKER` with no tokens and no collateral, walk away with **at least 500 loan tokens** while having **zero borrow shares** recorded against you.
+Starting as `ATTACKER` with no tokens and no collateral, walk away with at least 500 loan tokens while having zero borrow shares recorded against you.
 
 ## Rules
 
