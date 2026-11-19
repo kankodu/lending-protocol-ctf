@@ -4,7 +4,11 @@ Just knowing the bug won't get you a payout. You have to show how it can be weap
 
 ## Leaderboard
 
-First - [Keyword](https://x.com/xKeywordx)
+- First - [Keyword](https://x.com/xKeywordx)
+- Second - [drptbl.eth](https://x.com/DRPTBL)
+
+
+
 
 ## Setup
 
