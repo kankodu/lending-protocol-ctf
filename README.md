@@ -6,6 +6,9 @@ Just knowing the bug won't get you a payout. You have to show how it can be weap
 
 - First - [Keyword](https://x.com/xKeywordx)
 - Second - [drptbl.eth](https://x.com/DRPTBL)
+- Third - [mckenzieth](https://x.com/matheushtel)
+
+Also, solved by: [merlinboii](https://x.com/m3rlinbx0) and [Umar](https://x.com/0xumarkhatab)
 
 
 
